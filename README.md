@@ -1,1 +1,1 @@
-This is the read me for the zero day repo
+This is the readme for the zero_day repo.
